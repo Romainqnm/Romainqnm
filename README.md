@@ -1,6 +1,6 @@
 # Hello! 👋
 
-I'm **Romain**, a **student]** based in **Caen, France**. Welcome to my GitHub profile! I truly enjoy diving into innovative projects and pushing the boundaries of my knowledge. 🚀
+I'm **Romain**, a **student** based in **Caen, France**. Welcome to my GitHub profile! I truly enjoy diving into innovative projects and pushing the boundaries of my knowledge. 🚀
 
 ## About Me
 
