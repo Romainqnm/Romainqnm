@@ -1,46 +1,43 @@
-# Hello! 👋
+# Hi there, I'm Romain 👋
 
-I'm **Romain**, a **student** based in **Caen, France**. Welcome to my GitHub profile! I truly enjoy diving into innovative projects and pushing the boundaries of my knowledge. 🚀
+> **Fullstack Developer & Systems Administrator (BTS SISR)** 💻
+> *Creator of [Quoniam.pro](https://quoniam.pro) 🌊 | Based in Caen, France 🇫🇷*
 
-## About Me
+I bridge the gap between **Software Development** and **IT Infrastructure**.
+With a background in **Systems & Networks**, I build robust applications that are not only visually polished (UI/CSS) but also architecturally sound.
 
-I’m passionate about **hardware, video games or music** and enjoy working on projects related to **websites and databases**.
-Whenever I work on a project that excites me, I always give my best effort and strive to deliver high-quality results. Whether it's solving complex challenges or collaborating with others, I'm fully committed to doing my best. 💪
+---
 
-### Skills 🛠️
+### 🚀 Featured Project
+**🌊 [QUONIAM - Procedural Focus Environment](https://github.com/Romainqnm/Quoniam)**
+A pro-grade audio engine combining generative MIDI orchestration with real-time signal processing.
+* **Architecture:** Python Multithreading, Flet (UI), FluidSynth (DSP).
+* **Live:** [www.quoniam.pro](https://quoniam.pro)
 
-- **Programming Languages**: Python, HTML, SQL, Markdown and CSS 💻
-- **Tools and Technologies**: Assemble computers and install OS 🛠️
+---
 
-### Other Skills 📈
+### 🛠️ Technical Arsenal
 
-- **Problem-Solving**: Strong ability to break down complex issues and find efficient solutions. 🔧
-- **Team Collaboration**: Experience working in teams, contributing to group projects, and communicating effectively. 🤝
-- **Adaptability**: Quick to learn new technologies and adapt to different programming environments. ⚙️
-- **Project Management**: Capable of organizing and managing multiple tasks and deadlines in a structured way. 📅
-- **Documentation**: Skilled in writing clear, concise technical documentation for projects. 📝
-- **Attention to Detail**: Focused on delivering polished work with careful attention to both code and design. 🎯
+#### 💻 Development & UI
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![SQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## Contact Me 📬
+#### 📡 Systems & Networks (SISR)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Network](https://img.shields.io/badge/Network_Admin-CC2927?style=for-the-badge&logo=cisco&logoColor=white)
 
-- **Email**: [romain.qnm@gmail.com](mailto:romain.qnm@gmail.com) ✉️
-- **LinkedIn**: [Romain Q.](https://www.linkedin.com/in/romain-quoniam-8005112b6/) 🔗
+---
 
-### Education 🎓
+### 📊 GitHub Stats
+![Romain's GitHub stats](https://github-readme-stats.vercel.app/api?username=Romainqnm&show_icons=true&theme=tokyonight&hide_border=true)
 
-- **[BTS SIO]** – [CaenSup], [Caen, France]  
-  *[Years Attended: 2024 – Present]*  
+---
 
-- **[Bac Général]** – [Lycée Jeanne D'Arc], [Caen, France]  
-  *[Years Attended: 2019 – 2023]*  
-
-- **[Brevet des Collèges]** – [Etablissement Saint-Joseph], [Caen, France]  
-  *[Years Attended: 2016 – 2019]*
-  
-## Thanks for Visiting! 🙌
-
-Thank you for taking the time to check out my profile. I'm always on the lookout for new challenges and exciting adventures, possibly in other countries. 🌍
-
-Stay curious,  
-**Romain**
-
+### 📫 Let's Connect
+I am open to collaborations on **Software Engineering** or **System Administration** projects.
+* **Email:** [contact@quoniam.pro](mailto:contact@quoniam.pro)
+* **LinkedIn:** [Romain Q.](ton
