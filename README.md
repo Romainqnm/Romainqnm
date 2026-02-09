@@ -33,8 +33,10 @@ A pro-grade audio engine combining generative MIDI orchestration with real-time 
 ---
 
 ### 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Romainqnm&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Romainqnm&layout=compact&theme=tokyonight&hide_border=true)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Romainqnm&show_icons=true&theme=dark&hide_border=true" alt="Romain's Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romainqnm&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="160" />
+</p>
 
 ---
 
