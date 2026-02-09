@@ -1,6 +1,6 @@
 <div align="center">
   <a href="www.quoniam.pro">
-    <img src="./banniere-profil.png" width="100%" alt="Bannière Romain Quoniam">
+    <img src="./banner.png" width="100%" alt="Banner Romain Quoniam">
   </a>
 </div>
 <br>
