@@ -1,3 +1,10 @@
+<div align="center">
+  <a href="www.quoniam.pro">
+    <img src="./banniere-profil.png" width="100%" alt="Bannière Romain Quoniam">
+  </a>
+</div>
+<br>
+
 # Hi there, I'm Romain 👋
 
 > **Fullstack Developer & Systems Administrator (BTS SISR)** 💻
