@@ -32,14 +32,6 @@ A pro-grade audio engine combining generative MIDI orchestration with real-time 
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Romainqnm&show_icons=true&theme=dark&hide_border=true" alt="Romain's Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romainqnm&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="160" />
-</p>
-
----
-
 ### 📫 Let's Connect
 I am open to collaborations on **Software Engineering** or **System Administration** projects.
 * **Email:** [contact@quoniam.pro](mailto:contact@quoniam.pro)
