@@ -7,7 +7,7 @@
 
 # Hi there, I'm Romain 👋
 
-> **Fullstack Developer & Systems Administrator (BTS SISR)** 💻
+> **Fullstack Developer & Systems Administrator** 💻
 > *Creator of [Quoniam.pro](https://quoniam.pro) 🌊 | Based in Caen, France 🇫🇷*
 
 I bridge the gap between **Software Development** and **IT Infrastructure**.
